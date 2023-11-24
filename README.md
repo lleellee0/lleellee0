@@ -6,6 +6,7 @@
 - F-Lab 자바 백엔드 멘토 (2021. 12 ~ )
 
 ### 강의
+- Inflearn 백엔드 애플리케이션 성능 테스트하기 (제작중)
 - Inflearn 포트폴리오 초간단 배포하기 (<a href="https://inf.run/X5cLd" target="_blank">링크</a>)
 - Inflearn 백엔드 개발자에 의한, 백엔드 개발자들을 위한 프론트엔드 강의 - 기본편 (<a href="https://inf.run/cqme" target="_blank">링크</a>)
 - Inflearn 장애 없는 서비스를 만들기 위한 Resilience4j - CircuitBreaker (<a href="https://inf.run/5xPq" target="_blank">링크</a>)
