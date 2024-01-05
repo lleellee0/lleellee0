@@ -19,4 +19,4 @@
 - 초간단 배포하기 후속 강의로 배포 자동화에 대한 강의
 
 ### 책
-- [Update] 2024년 1월 출간 예정
+- 한빛미디어, 이것이 취업을 위한 백엔드 개발이다 with 자바 (<a href="https://search.shopping.naver.com/book/catalog/45070745618" target="_blank">링크</a>)
