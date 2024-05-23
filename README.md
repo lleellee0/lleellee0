@@ -6,7 +6,7 @@
 - F-Lab 자바 백엔드 멘토 (2021. 12 ~ )
 
 ### 강의
-- (곧 출시 예정) Inflearn 애플리케이션 배포 자동화와 CI/CD (<a href="https://inf.run/MtHZU" target="_blank">링크</a>)
+- (24.05.23 오픈) Inflearn 애플리케이션 배포 자동화와 CI/CD (<a href="https://inf.run/MtHZU" target="_blank">링크</a>)
 - Inflearn 백엔드 애플리케이션 성능 테스트하기 (<a href="https://inf.run/74PdQ" target="_blank">링크</a>)
 - Inflearn 포트폴리오 초간단 배포하기 (<a href="https://inf.run/X5cLd" target="_blank">링크</a>)
 - Inflearn 백엔드 개발자에 의한, 백엔드 개발자들을 위한 프론트엔드 강의 - 기본편 (<a href="https://inf.run/cqme" target="_blank">링크</a>)
