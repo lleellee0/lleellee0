@@ -6,6 +6,7 @@
 - F-Lab 자바 백엔드 멘토 (2021. 12 ~ )
 
 ### 강의
+- Inflearn 안정적인 서비스 배포를 위한 배포 전략과 팁 (9월중 오픈 예정)
 - Inflearn 백엔드 애플리케이션 성능 개선하기 - 기초편 (<a href="https://inf.run/EG9AP" target="_blank">링크</a>)
 - Inflearn 애플리케이션 배포 자동화와 CI/CD (<a href="https://inf.run/WUGDM" target="_blank">링크</a>)
 - Inflearn 백엔드 애플리케이션 성능 테스트하기 (<a href="https://inf.run/74PdQ" target="_blank">링크</a>)
