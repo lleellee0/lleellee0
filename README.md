@@ -17,7 +17,6 @@
 - CLASS101 백엔드 인프라 관련 강의 (<a href="https://class101.net/classic/products/T6HT0bUDKIH1V5i3Ji2M" target="_blank">링크</a>)
 
 ### 예정된 강의 (주제는 언제든 변경될 수 있습니다)
-- 배포 전략과 배포시 고려해야할 것들에 대한 강의
 - 백엔드 개발자에 의한, 백엔드 개발자들을 위한 프론트엔드 강의 - 활용편
 - 로그에 대한 강의
 
