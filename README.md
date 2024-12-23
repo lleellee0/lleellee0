@@ -6,6 +6,7 @@
 - F-Lab 자바 백엔드 멘토 (2021. 12 ~ )
 
 ### 강의
+- [NEW] Inflearn 개발자에게 필요한 로그 관리 (<a href="https://inf.run/bYSMb" target="_blank">링크</a>)
 - Inflearn 안정적인 서비스 배포를 위한 배포 전략과 팁 (<a href="https://inf.run/mEprY" target="_blank">링크</a>)
 - Inflearn 백엔드 애플리케이션 성능 개선하기 - 기초편 (<a href="https://inf.run/EG9AP" target="_blank">링크</a>)
 - Inflearn 애플리케이션 배포 자동화와 CI/CD (<a href="https://inf.run/WUGDM" target="_blank">링크</a>)
@@ -18,7 +19,6 @@
 
 ### 예정된 강의 (주제는 언제든 변경될 수 있습니다)
 - 백엔드 개발자에 의한, 백엔드 개발자들을 위한 프론트엔드 강의 - 활용편
-- 로그에 대한 강의
 
 ### 책
 - 한빛미디어, 이것이 취업을 위한 백엔드 개발이다 with 자바 (<a href="https://search.shopping.naver.com/book/catalog/45070745618" target="_blank">링크</a>)  
