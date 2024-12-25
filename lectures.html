@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h2, h3 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 15px 0;
+            background: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        button.copy {
+            background-color: #2ecc71;
+        }
+        button:hover {
+            opacity: 0.9;
+        }
+        .button-container {
+            margin-top: 10px;
+        }
+        @media (max-width: 768px) {
+            body {
+                margin: 10px;
+            }
+            button {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h3>강의 목록</h3>
+    <ul>
+        <li>
+            <b>[NEW] Inflearn</b> 개발자에게 필요한 로그 관리
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/bYSMb')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/bYSMb')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 안정적인 서비스 배포를 위한 배포 전략과 팁
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/mEprY')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/mEprY')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 백엔드 애플리케이션 성능 개선하기 - 기초편
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/EG9AP')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/EG9AP')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 애플리케이션 배포 자동화와 CI/CD
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/WUGDM')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/WUGDM')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 백엔드 애플리케이션 성능 테스트하기
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/74PdQ')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/74PdQ')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 포트폴리오 초간단 배포하기
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/X5cLd')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/X5cLd')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 백엔드 개발자에 의한, 백엔드 개발자들을 위한 프론트엔드 강의 - 기본편
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/cqme')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/cqme')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Inflearn</b> 장애 없는 서비스를 만들기 위한 Resilience4j - CircuitBreaker
+            <div class="button-container">
+                <button onclick="openLink('https://inf.run/5xPq')">열기</button>
+                <button class="copy" onclick="copyToClipboard('https://inf.run/5xPq')">URL 복사</button>
+            </div>
+        </li>
+        <li>
+            <b>Programmers</b> 자바 객체지향 강의
+            <div class="button-container">
+                <button onclick="openLink('https://school.programmers.co.kr/learn/courses/17778/17778-%EC%8B%A4%EB%AC%B4-%EC%9E%90%EB%B0%94-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-oop%EC%99%80-%ED%95%B5%EC%8B%AC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4')">열기</button>
+            </div>
+        </li>
+        <li>
+            <b>CLASS101</b> 백엔드 인프라 관련 강의
+            <div class="button-container">
+                <button onclick="openLink('https://class101.net/classic/products/T6HT0bUDKIH1V5i3Ji2M')">열기</button>
+            </div>
+        </li>
+    </ul>
+    <script>
+        function openLink(url) {
+            window.open(url, '_blank');
+        }
+
+        function copyToClipboard(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                alert('URL이 복사되었습니다: ' + url);
+            });
+        }
+    </script>
+</body>
+</html>
