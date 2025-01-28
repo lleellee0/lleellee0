@@ -17,6 +17,10 @@
 - Programmers 자바 객체지향 강의 (<a href="https://school.programmers.co.kr/learn/courses/17778/17778-%EC%8B%A4%EB%AC%B4-%EC%9E%90%EB%B0%94-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-oop%EC%99%80-%ED%95%B5%EC%8B%AC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4" target="_blank">링크</a>)
 - CLASS101 백엔드 인프라 관련 강의 (<a href="https://class101.net/classic/products/T6HT0bUDKIH1V5i3Ji2M" target="_blank">링크</a>)
 
+### 예정된 강의 (주제는 언제든 변경될 수 있습니다)
+- 서비스 안정성에 대한 강의
+- 백엔드 애플리케이션 성능 개선하기 - 심화편
+
 ### 책
 - 한빛미디어, 이것이 취업을 위한 백엔드 개발이다 with 자바 (<a href="https://search.shopping.naver.com/book/catalog/45070745618" target="_blank">링크</a>)  
   ㄴ 책에 대한 강의 (<a href="https://www.youtube.com/watch?v=Kp5wo7a4eAo&list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv" target="_blank">링크</a>)  
