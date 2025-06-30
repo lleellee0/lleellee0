@@ -5,7 +5,7 @@
 - Programmers, F-Lab 등 자바 백엔드 멘토로 활동했음
 
 ### 강의
-- Inflearn 장애를 허용하는 견고한 시스템 만들기 (<a href="https://inf.run/XHEvJ" target="_blank">링크</a>)
+- [NEW] Inflearn 장애를 허용하는 견고한 시스템 만들기 (<a href="https://inf.run/XHEvJ" target="_blank">링크</a>)
 - Inflearn 개발자에게 필요한 로그 관리 (<a href="https://inf.run/bYSMb" target="_blank">링크</a>)
 - Inflearn 안정적인 서비스 배포를 위한 배포 전략과 팁 (<a href="https://inf.run/mEprY" target="_blank">링크</a>)
 - Inflearn 백엔드 애플리케이션 성능 개선하기 - 기초편 (<a href="https://inf.run/EG9AP" target="_blank">링크</a>)
