@@ -2,7 +2,7 @@
 
 ### 공지사항
 - 새싹에서 자바 백엔드 오프라인 교육과정을 오픈했습니다. 자세한 내용은 <a href="https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=2979&srchCategoryTypeCd=&courseMasterSeq=1548&currentMenuId=900002024" target="_blank">링크</a> 참고 해보세요!
-- 2025년은 위 교육과정 준비로, 추가 강의 제작은 어려울 것 같고, 하반기 중 두번째 책 출간 예정입니다.
+- 2025년은 위 교육과정 준비로 추가 강의 제작은 어려울 것 같고, 하반기 중 두번째 책 출간 예정입니다.
 
 ### 주요 이력
 - 카카오 자바 백엔드 개발자 (2019. 08 ~ )
